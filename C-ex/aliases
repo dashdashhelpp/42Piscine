@@ -1,6 +1,0 @@
-alias mini='~/mini-moulinette/mini-moul.sh'
-alias ccc='cc -Werror -Wextra -Wall *.c'
-alias lock=ft_lock
-alias norm='norminette -R CheckForbiddenSourceHeader -R CheckDefine'
-alias ncc='gcc -nostartfiles'
-alias cca='cc -Wextra -Werror -Wall -c */**'
